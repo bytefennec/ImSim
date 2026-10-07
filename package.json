@@ -1,0 +1,12 @@
+{
+  "name": "com.bytefennec.imsim",
+  "displayName": "Immersive Simulation",
+  "description": "Components for making immersive simulations",
+  "version": "1.0.0",
+  "keywords": [
+    "ImSim"
+  ],
+  "author": {
+    "name": "Bytefennec"
+  }
+}
